@@ -1,22 +1,26 @@
 import React from "react";
+import {
+  Route,
+  NavLink,
+  BrowserRouter as Router,
+  Switch,
+} from "react-router-dom";
 
 const Navbar = () => {
   return (
     <div>
       <nav>
         <div class="nav-wrapper">
-          <a href="#" class="brand-logo">
-            Logo
-          </a>
+          <NavLink to="/home">Daniel Martinez</NavLink>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li>
-              <a href="sass.html">Sass</a>
+              <NavLink to="/home" activeStyle={{backgroundColor: "rgba(0,0,0,0.1)"}}>Home</NavLink>
             </li>
             <li>
-              <a href="badges.html">Components</a>
+              <NavLink to="/portfolio" activeStyle={{backgroundColor: "rgba(0,0,0,0.1)"}}>Portfolio</NavLink>
             </li>
             <li>
-              <a href="collapsible.html">JavaScript</a>
+              <NavLink to="/contact" activeStyle={{backgroundColor: "rgba(0,0,0,0.1)"}}>Contact</NavLink>
             </li>
           </ul>
         </div>
