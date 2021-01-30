@@ -3,6 +3,7 @@
     height: 26rem;
 }
 
-li {
-    list-style-type: circle;
+.theHeading{
+    font-size:4rem;
+    color: #eee;
 }

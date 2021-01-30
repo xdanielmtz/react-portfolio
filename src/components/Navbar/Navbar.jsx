@@ -5,13 +5,14 @@ import {
   BrowserRouter as Router,
   Switch,
 } from "react-router-dom";
+import "./navbar.css";
 
 const Navbar = () => {
   return (
     <div>
       <nav>
         <div class="nav-wrapper">
-          <NavLink to="/home">Daniel Martinez</NavLink>
+          <NavLink to="/home" className="navName">Daniel Martinez</NavLink>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li>
               <NavLink to="/home" activeStyle={{backgroundColor: "rgba(0,0,0,0.1)"}}>Home</NavLink>
