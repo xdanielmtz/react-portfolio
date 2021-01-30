@@ -3,6 +3,7 @@ import Contact from "./pages/Contact/Contact";
 import Home from "./pages/Home/Home";
 import Portfolio from "./pages/Portfolio/Portfolio";
 import Navbar from "./components/Navbar/Navbar";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route path="*" component={Home} />
         </Switch>
+        <Footer />
       </Router>
     </>
   );
