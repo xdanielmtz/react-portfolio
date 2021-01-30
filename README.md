@@ -5,7 +5,6 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Tools](#Tools)
-* [Contributing](#contribution)
 * [Questions](#questions)
 * [Screenshot](#screenshot)
 * [Deployment](#deployment)
@@ -31,20 +30,14 @@ The tools I used to create this application are:
 React.Js - Front-end Library in which I used to accomplish nearly everything for this application
 Materialize - CSS library I utilized for the styling
 
-## Contribution
-IF you wish to contribute, here is how:
-GO to my repo and fork my repository.
-CLONE with ssh and view it on your local machine.
-WHEN you have made your contributions, run git push and I will review for a merge.
-
 ## Questions
 If you have any questions contact me through email:
     (Daniel Martinez) - [xdanielmtz@gmail.com]
 
 ## Screenshot
-![Home Page](assets/employee-directory-ss.png)
+![Home Page](public/react-portfolio-ss.png)
 
 ## Deployment
-https://xdanielmtz.github.io/employee-directory/
+
 ## Credits
 I would like to give credits to my instructor, Jonathan Watson for providing me with the information needed to complete this assignment. 
