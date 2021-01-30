@@ -23,12 +23,19 @@ const Home = () => {
         <div className="row">
           <div className="col s4 center-align">
             <i class="large material-icons">tab</i>
+            <h5>Front End</h5>
+            <ul>
+                <li>one</li>
+                <li>one</li>
+            </ul>
           </div>
           <div className="col s4 center-align">
             <i class="large material-icons">open_in_browser</i>
+            <h5>Back End</h5>
           </div>
           <div className="col s4 center-align">
             <i class="large material-icons">person</i>
+            <h5>Dev Tools</h5>
           </div>
         </div>
       </div>
