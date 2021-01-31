@@ -11,7 +11,8 @@
 * [Credits](#credits)
 
 ## Description
-react-portfolio is my portfolio! Take a look! I created this application to put my react skills to the test. And also more importantly, to re-do my portfolio. There will be future updates as it is not up to my standards yet as far as content and styling.
+react-portfolio is my portfolio! Take a look! I created this application to put my react skills to the test. And also more importantly, to re-do my portfolio. 
+There will be future updates as it is not up to my standards yet as far as content and styling. Mobile responsiveness will also be coming in the future. 
 
 
 ## Installation
