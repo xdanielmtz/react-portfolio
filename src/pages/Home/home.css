@@ -1,9 +1,9 @@
 #homeContainer{
-    background-color: rgb(161, 107, 107);
+    background-color: rgb(163, 192, 217);
     height: 26rem;
 }
 
 .theHeading{
     font-size:4rem;
-    color: #eee;
+    color: rgb(0, 0, 0);
 }
