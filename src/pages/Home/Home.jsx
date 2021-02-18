@@ -20,7 +20,7 @@ const Home = () => {
       <p className="center-align">
         I have more than 6 months experience building rich applications. Below
         is a quick overview <br /> of my main technical skill sets and tools I
-        use. Want to find out more about my experience?{" "}
+        have used. Want to find out more about my experience?{" "}
         <a href="https://docs.google.com/document/d/1Y032gC5r-Xg9yC9JL9LPpukUcwriwOar9rTpsvwfkt4/edit">
           Check out my resume{" "}
         </a>
