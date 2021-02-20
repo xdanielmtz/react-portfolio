@@ -63,6 +63,7 @@ const Home = () => {
             <i className="large material-icons">person</i>
             <h5 style={{ fontWeight: "bold" }}>Dev Tools</h5>
             <ul>
+              <li>Agile Methodology</li>
               <li>Heroku</li>
               <li>Git</li>
               <li>Github</li>
@@ -70,6 +71,7 @@ const Home = () => {
               <li>Robo 3T</li>
               <li>MongoDB Atlas</li>
               <li>PostMan</li>
+              <li>Kanban Board</li>
             </ul>
           </div>
         </div>
