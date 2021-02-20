@@ -3,8 +3,8 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <div>
-      <footer class="page-footer">
+    <div >
+      <footer id="theFooter" class="page-footer">
         <div class="container">
           <div class="row">
             <div class="col l6 s12">
