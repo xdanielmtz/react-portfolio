@@ -1,10 +1,12 @@
 import React from "react";
+import Banner from "../../components/Banner/Banner";
 import "./home.css";
+
 
 const Home = () => {
   return (
     <>
-     
+     <Banner/>
       <h4 className="center-align">Skills Overview</h4>
       <p className="center-align">
         I have more than 6 months experience building rich applications. Below
