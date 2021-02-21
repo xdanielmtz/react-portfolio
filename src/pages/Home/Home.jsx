@@ -1,4 +1,5 @@
 import React from "react";
+import BackEndSkills from "../../components/BackEndSkills/BackEndSkills";
 import Banner from "../../components/Banner/Banner";
 import FrontEndSkills from "../../components/FrontEndSkills/FrontEndSkills";
 import HomeOverview from "../../components/HomeOverview/HomeOverview";
@@ -11,8 +12,8 @@ const Home = () => {
       <HomeOverview />
       <div className="container">
         <div className="row">
-          <FrontEndSkills/>
-         
+          <FrontEndSkills />
+          <BackEndSkills />
           <div className="col s4 center-align">
             <i className="large material-icons">person</i>
             <h5 style={{ fontWeight: "bold" }}>Dev Tools</h5>
