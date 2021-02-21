@@ -4,18 +4,7 @@ import "./home.css";
 const Home = () => {
   return (
     <>
-      <div id="homeContainer">
-        <div className="container">
-          <div className="row">
-            <div className="col s3"> </div>
-            <div style={{ fontWeight: "bold" }} className="col s9 theHeading">
-              {" "}
-              Hello, World! <br />
-              <br /> My name is Daniel Martinez.
-            </div>
-          </div>
-        </div>
-      </div>
+     
       <h4 className="center-align">Skills Overview</h4>
       <p className="center-align">
         I have more than 6 months experience building rich applications. Below
