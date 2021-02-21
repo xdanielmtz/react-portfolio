@@ -1,13 +1,13 @@
 import React from "react";
 import Banner from "../../components/Banner/Banner";
+import HomeOverview from "../../components/HomeOverview/HomeOverview";
 import "./home.css";
-
 
 const Home = () => {
   return (
     <>
-     <Banner/>
-   
+      <Banner />
+      <HomeOverview />
       <div className="container">
         <div className="row">
           <div className="col s4 center-align">
