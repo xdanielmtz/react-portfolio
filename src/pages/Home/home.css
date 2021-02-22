@@ -9,6 +9,10 @@
   color: rgb(0, 0, 0);
 }
 
+#name{
+    color: white;
+}
+
 @media screen and (max-width: 714px){
     .theHeading{
         font-size: 3.5rem;

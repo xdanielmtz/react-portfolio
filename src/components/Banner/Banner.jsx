@@ -6,11 +6,10 @@ const Banner = () => {
       <div id="homeContainer">
         <div className="container">
           <div className="row">
-            <div className="col s3"> </div>
-            <div style={{ fontWeight: "bold" }} className="col s9 theHeading">
+            <div style={{ fontWeight: "bold" }} className="col s12 theHeading">
               {" "}
               Hello, World! <br />
-              <p>My name is Daniel Martinez.</p>
+              <p id="name">My name is Daniel Martinez.</p>
             </div>
           </div>
         </div>
