@@ -14,7 +14,7 @@ const Navbar = () => {
         <nav>
           <div class="nav-wrapper">
             <div className="container">
-              <div className="row">
+              <div className="row ">
                 <NavLink to="/home" className="navName">
                   Daniel Martinez
                 </NavLink>
