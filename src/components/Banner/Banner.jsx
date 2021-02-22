@@ -10,7 +10,7 @@ const Banner = () => {
             <div style={{ fontWeight: "bold" }} className="col s9 theHeading">
               {" "}
               Hello, World! <br />
-              <br /> My name is Daniel Martinez.
+              <p>My name is Daniel Martinez.</p>
             </div>
           </div>
         </div>

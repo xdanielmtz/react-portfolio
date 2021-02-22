@@ -1,9 +1,17 @@
-#homeContainer{
-    background-color: rgb(163, 192, 217);
-    height: 26rem;
+#homeContainer {
+  background-color: rgb(163, 192, 217);
+  /* background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.freepik.com%2Ffree-photo%2Fabstract-technology-binary-code-background_34629-592.jpg&f=1&nofb=1"); */
+  height: 22rem;
 }
 
-.theHeading{
-    font-size:4rem;
-    color: rgb(0, 0, 0);
+.theHeading {
+  font-size: 4rem;
+  color: rgb(0, 0, 0);
+}
+
+@media screen and (max-width: 714px){
+    .theHeading{
+        font-size: 3.5rem;
+    }
+
 }
