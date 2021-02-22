@@ -4,6 +4,10 @@
   height: 22rem;
 }
 
+.containerNav{
+    background-color: violet;
+}
+
 .theHeading {
   font-size: 4rem;
   color: rgb(0, 0, 0);
@@ -13,9 +17,14 @@
     color: white;
 }
 
-@media screen and (max-width: 714px){
-    .theHeading{
-        font-size: 3.5rem;
+@media screen and (max-width: 1141px){
+    .columnOverview{
+        margin-top: -3.5rem !important;
     }
+}
 
+@media screen and (max-width: 993px){
+    .columnOverview{
+        margin-top: 0rem !important;
+    }
 }
