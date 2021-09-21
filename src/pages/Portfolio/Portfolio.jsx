@@ -32,7 +32,7 @@ const Portfolio = () => {
             >
               Repository Page
             </a>
-            <br/>
+            <br />
             <p id="afsDescription">
               A page where all things Atlanta Fandom can come together! Users
               can create an account and upload posts as well as interact with
@@ -80,12 +80,11 @@ const Portfolio = () => {
             >
               Repository Page
             </a>
-            <br/>
+            <br />
             <p id="directoryDescription">
-              A page where all things Atlanta Fandom can come together! Users
-              can create an account and upload posts as well as interact with
-              other users posts by saving them. Application is still in
-              development.
+              A page containing a list of 50 employees whom which can be sorted
+              alphabetically. These employees can also be searched by their
+              phone number.
             </p>
           </div>
           <div className="col s6">
