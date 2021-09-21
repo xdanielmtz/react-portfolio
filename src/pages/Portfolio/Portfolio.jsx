@@ -76,7 +76,7 @@ const Portfolio = () => {
             <br />
             <a
               className="linkTag"
-              href="https://xdanielmtz.github.io/employee-directory/"
+              href="https://github.com/xdanielmtz/employee-directory"
             >
               Repository Page
             </a>
