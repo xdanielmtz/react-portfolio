@@ -32,7 +32,15 @@ const Portfolio = () => {
             >
               Repository Page
             </a>
+            <br/>
+            <p id="afsDescription">
+              A page where all things Atlanta Fandom can come together! Users
+              can create an account and upload posts as well as interact with
+              other users posts by saving them. Application is still in
+              development.
+            </p>
           </div>
+
           <div className="col s6">
             <img
               src={afs}
@@ -72,6 +80,13 @@ const Portfolio = () => {
             >
               Repository Page
             </a>
+            <br/>
+            <p id="directoryDescription">
+              A page where all things Atlanta Fandom can come together! Users
+              can create an account and upload posts as well as interact with
+              other users posts by saving them. Application is still in
+              development.
+            </p>
           </div>
           <div className="col s6">
             <img
@@ -165,7 +180,6 @@ const Portfolio = () => {
           </div>
         </div>
       </div>
-      
     </>
   );
 };
