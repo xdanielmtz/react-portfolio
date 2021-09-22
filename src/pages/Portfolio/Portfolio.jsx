@@ -126,6 +126,15 @@ const Portfolio = () => {
             >
               Repository Page
             </a>
+            <br />
+            <p id="safeMusicDescription">
+              Music lovers can search for concerts or events based in city
+              input. The event will also be met with up to date COVID info for
+              that city along with a small gif that acts as a recommendation
+              whether or not for you to attend said event. Users are also able
+              to click on their event and will be redirected to the ticketmaster
+              website where they can order tickets.
+            </p>
           </div>
           <div className="col s6">
             <img
@@ -167,6 +176,18 @@ const Portfolio = () => {
             >
               Repository Page
             </a>
+            <br />
+            <p id="footballDescription">
+              An application made for video game lovers, more specifically
+              futbol and football. Being the first of its kind, this application
+              compares both the stats of a Madden football player against that
+              of a soccer player from FIFA. Their stats are compared via a
+              database that has up to date data from the 2019/2020 season. Apart
+              from selecting a player that is already in the database, the user
+              can create their own with their desired stats and have them go
+              head to head against an existing player. This new created player
+              will then be saved in the database for future use.
+            </p>
           </div>
           <div className="col s6">
             <img
